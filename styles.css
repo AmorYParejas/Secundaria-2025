@@ -198,3 +198,6 @@ a:hover {
   padding: 50px 20px;
 }
 
+.goodbye strong{
+  display: block;
+}

@@ -1,5 +1,5 @@
 // Cuenta regresiva
-const targetDate = new Date("2025-07-14T17:11:00");
+const targetDate = new Date("2025-07-14T11:00:00");
 
 function updateCountdown() {
   const now = new Date();
